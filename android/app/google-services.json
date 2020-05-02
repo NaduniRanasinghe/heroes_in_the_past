@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362521618290",
+    "firebase_url": "https://past-heroes.firebaseio.com",
+    "project_id": "past-heroes",
+    "storage_bucket": "past-heroes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362521618290:android:48d4cd40fac0fe4a571feb",
+        "android_client_info": {
+          "package_name": "com.nkr.stories_of_heroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362521618290-icnh14d1ed2i64idbd0gucpvbhvkkvia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xyJPwExoMx6xrlZCUWivv_X9Fm386hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362521618290-icnh14d1ed2i64idbd0gucpvbhvkkvia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
